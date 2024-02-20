@@ -3,7 +3,7 @@
 - 안드로이드 스튜디오로 모바일 녹음기 앱을 제작했습니다.
 - **실행 화면**
 
-        ![Untitled (3)](https://github.com/YUDABB/record/assets/114066269/1b1c9807-aeaa-4590-bca5-6388520898c2)
+  ![Untitled (3)](https://github.com/YUDABB/record/assets/114066269/1b1c9807-aeaa-4590-bca5-6388520898c2)
         
 
 - **기능**
