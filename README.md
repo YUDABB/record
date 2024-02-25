@@ -6,7 +6,7 @@
     - 녹음 기능 : 사용자가 버튼을 클릭하여 녹음을 시작하거나 중지할 수 있게 했습니다. (MediaRecorder 사용)
     - 파일 목록 표시 : 외부 저장소에서 녹음 된 파일을 목록에 나오게 했습니다. (RecyclerView사용)
     - 권한 요청 : Dexter라이브러리를 사용해 권한 요청을 표시하게 했습니다.
-    - 화면 전환 :  ViewPager와 TabLayout을 사용하여 RecorderFragment와 RecordingFragment를 서로 전환할 수 있게 했습니다.
+    - 화면 전환 :  ViewPager와 TabLayout을 사용하여 녹음기와 녹음목록을 서로 전환할 수 있게 했습니다.
     
 
 ## 🛠️ 사용 기술 및 라이브러리
